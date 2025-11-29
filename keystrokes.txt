@@ -1,0 +1,1 @@
+[shift]Hello[space][shift]Skill[shift]Craft[shift]Technology[shift]S[backspace][esc]
